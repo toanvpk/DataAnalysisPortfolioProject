@@ -26,7 +26,7 @@ FROM CovidDeaths$ CoDea
 JOIN CovidVaccination$ CoVac
 ON CoDea.location = CoVac.location
 AND CoDea.date = CoVac.date
-WHERE CoDea.location LIKE '%World%'
+WHERE (CoDea.location LIKE '%World%' OR CoDea.location LIKE '%state%')
 	AND CoVac.date = '2021-08-29'
 
 -----------------------------------

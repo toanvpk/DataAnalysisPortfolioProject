@@ -8,5 +8,3 @@ The report can be found at: https://public.tableau.com/views/PortfolioProject_16
   
 3. dataCleaning.sql
 
-
-I want to give speacial thanks to AlexTheAnalyst for the great help he's given to the data analysis society as well as to the making of this project.

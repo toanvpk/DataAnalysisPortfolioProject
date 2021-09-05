@@ -7,3 +7,6 @@ which can be found at: https://ourworldindata.org/covid-deaths
 The report can be found at: https://public.tableau.com/views/PortfolioProject_16308723698770/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
   
 3. dataCleaning.sql
+
+
+I want to give speacial thanks to AlexTheAnalyst for the great help he's given to the data analysis society as well as to the making of this project.

@@ -1,3 +1,5 @@
+-- Link  to the Dashboard on Tableau:
+-- https://public.tableau.com/views/PortfolioProject_16308723698770/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 -----------------------------------
 --- Some Global Numbers ----------
 SELECT CoDea.location, CoDea.date, CoDea.population, CoDea.total_cases,
